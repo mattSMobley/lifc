@@ -1,4 +1,17 @@
-body {
-  padding-top: 50px;
+.navbar {
+  display: inline-block;
+}
 
+#navlinks {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 20em;
+}
+
+body {
+  padding: 70px
+}
+
+#nav {
+  padding: 1em;
 }
